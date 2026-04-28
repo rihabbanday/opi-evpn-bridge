@@ -159,7 +159,7 @@ docker run -v "$PWD":/src -w /src vektra/mockery --config=utils/mocks/.mockery.y
 ---
 
 ## Funding & Initiative
-FACIS is part of the Important Projects of Common European Interest – Cloud Infrastructure and Services (8ra/IPCEI-CIS) initiative. 8ra/IPCEI-CIS aims to establish a Multi-Provider Cloud-Edge Continuum across Europe – a cloud ecosystem designed to revolutionize data processing in the next generation of cloud and edge infrastructure and services. The initiative represents a united European effort and stands under a common governance mandated by the community of industrial partners and member states.<br><br>
+KeeCEK is part of the Important Projects of Common European Interest – Cloud Infrastructure and Services (8ra/IPCEI-CIS) initiative. 8ra/IPCEI-CIS aims to establish a Multi-Provider Cloud-Edge Continuum across Europe – a cloud ecosystem designed to revolutionize data processing in the next generation of cloud and edge infrastructure and services. The initiative represents a united European effort and stands under a common governance mandated by the community of industrial partners and member states.<br><br>
 **More info:** [https://8ra.com/ipcei-cis/](https://8ra.com/ipcei-cis/)
 
 ![Funding](https://github.com/opi-evpn-bridge/docs/BMWE2025_NextGenEU_gef_en_RGB.png)
